@@ -1,0 +1,33 @@
+
+## Members
+
+r05922095 古濱淞
+r05944023 徐銘威
+r06922138 徐御倫
+
+===========================
+
+## Introduction
+
+We developed 3 apps to demonstrate how we can utilize hands-free input such as facial expressions with ARKit.
+
+> # WinkkyBird
+> Instead of touch event, users can blink to play flappy bird.
+>
+> # AsteroidsDodge
+> Use left wink and right wink to control the aircraft.
+
+> # EyePlayer
+> A custom youtube video player enables user to control with different eye expressions.
+
+===========================
+
+## Applications Screenshot
+
+![Alt text](iOS_final_app_screenshot.png)
+
+===========================
+
+## Demo Videos Link
+
+<https://youtu.be/6ZSFjk3-HHQ>
